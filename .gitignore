@@ -1,0 +1,10 @@
+# Veri dosyaları
+*.csv
+*.zip
+data/
+
+# Sanal ortam ve cache
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
