@@ -7,7 +7,7 @@ This repository contains exercises, implementations, and hands-on projects compl
 | Section | Topic | Dataset | Model / Architecture | Performance (Test Acc) | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **01** | Artificial Neural Networks (ANN) | Fashion-MNIST | 3-Layer MLP (Linear + ReLU) | 87.5% | [Notebook](01_ann/fashionmnistann.ipynb) |
-| **02** | Convolutional Neural Networks (CNN) | *To be added* | - | - | - |
+| **02** | Convolutional Neural Networks (CNN) | Intel Image Classification (6 classes) | 2 Conv layers (32/64 filters), MaxPool, FC-512, Dropout | 79.3% | [Notebook](Cnn/cnn.ipynb) | https://www.kaggle.com/datasets/puneet6060/intel-image-classification |
 | **03** | Recurrent Neural Networks (RNN) | *To be added* | - | - | - |
 | **04** | Long Short-Term Memory (LSTM) | *To be added* | - | - | - |
 | **05** | Generative Adversarial Networks (GAN) | *To be added* | - | - | - |

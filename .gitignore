@@ -1,10 +1,21 @@
-# Veri dosyaları
+# Python & Ortam (Root ve tüm alt dizinler için geçerli)
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Model ve Veri Çıktıları
+*.pth
+*.pt
 *.csv
 *.zip
 data/
+**/data/
 
-# Sanal ortam ve cache
-venv/
-.venv/
-__pycache__/
-.ipynb_checkpoints/
+# Klasör Bazlı Ham Veriler
+cnn/seg_train/
+cnn/seg_test/
+cnn/seg_pred/
+
+# Varsa ANN verileri (Örn: klasör adı neyse)
+# eğitim-ann/data/
