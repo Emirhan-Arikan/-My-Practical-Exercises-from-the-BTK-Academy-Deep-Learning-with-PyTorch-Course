@@ -9,7 +9,7 @@ This repository contains exercises, implementations, and hands-on projects compl
 | **01** | Artificial Neural Networks (ANN) | Fashion-MNIST | 3-Layer MLP (Linear + ReLU) | 87.5% | [Notebook](01_ann/fashionmnistann.ipynb) |
 | **02** | Convolutional Neural Networks (CNN) | [Intel Image Classification (6 classes)](https://www.kaggle.com/datasets/puneet6060/intel-image-classification) | 2 Conv layers (32/64 filters), MaxPool, FC-512, Dropout | 79.3% | [Notebook](Cnn/cnn.ipynb) |
 | **03** | Recurrent Neural Networks (RNN) | [IMDB Dataset (50K Movie Reviews)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | Embedding (128), RNN (128), Masked Mean Pooling, FC | 85.21% | [Notebook](Rnn/rnn.ipynb) |
-| **04** | Long Short-Term Memory (LSTM) | *To be added* | - | - | - |
+| **04** | Long Short-Term Memory (LSTM) | [IMDB Dataset (50K Movie Reviews)](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) | Embedding (100), LSTM (128), FC | 86.21% | [Notebook](Lstm/lstm.ipynb) |
 | **05** | Generative Adversarial Networks (GAN) | *To be added* | - | - | - |
 | **06** | Radial Basis Function Networks (RBFN) | *To be added* | - | - | - |
 | **07** | Transfer Learning | *To be added* | - | - | - |
